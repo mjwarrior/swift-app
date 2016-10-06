@@ -72,8 +72,8 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="text1" destination="Fms-xv-o4o" id="fea-AW-O0p"/>
-                        <outlet property="text2" destination="wxd-EY-JRq" id="Dcs-aA-zQU"/>
+                        <outlet property="text1" destination="qBb-Uc-K6c" id="f6R-7u-lCX"/>
+                        <outlet property="text2" destination="94o-0a-vLf" id="O6p-Kj-OIe"/>
                         <outlet property="theLabel" destination="zlo-rQ-VKD" id="1O0-sL-tBS"/>
                     </connections>
                 </viewController>
